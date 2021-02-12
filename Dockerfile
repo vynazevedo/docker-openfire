@@ -1,4 +1,4 @@
-FROM adoptopenjdk/openjdk11:debianslim-jre
+FROM adoptopenjdk/openjdk11
 
 ENV OPENFIRE_VERSION=4.6.2 \
     OPENFIRE_USER=openfire \
